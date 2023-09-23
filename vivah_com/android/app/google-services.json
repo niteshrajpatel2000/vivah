@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552476215766",
+    "project_id": "apple-3729c",
+    "storage_bucket": "apple-3729c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552476215766:android:8939676da6977cf0f8fc77",
+        "android_client_info": {
+          "package_name": "com.example.vivah_com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552476215766-ailaobpv54d7s27rscr132of6vsfg1l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKSjp2uFSbLdOgOQzMTofs3ukGuEf5oTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552476215766-ailaobpv54d7s27rscr132of6vsfg1l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
